@@ -1,6 +1,6 @@
 # nexus-actors/doctrine-dbal
 
-Nexus Doctrine DBAL — coroutine-aware connection pool, HTTP scope middleware, and actor-side integration.
+Nexus Doctrine DBAL — coroutine-aware connection pool and actor-side integration. HTTP scope middleware lives in [nexus-actors/doctrine-dbal-http](https://github.com/nexus-actors/doctrine-dbal-http).
 
 > **Read-only subtree split** of [nexus-actors/nexus](https://github.com/nexus-actors/nexus).
 > Report issues and send pull requests to the monorepo — this repository only receives
